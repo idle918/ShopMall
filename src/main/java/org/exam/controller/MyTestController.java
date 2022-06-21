@@ -8,4 +8,5 @@ public class MyTestController {
 	
 	@Autowired
 	private String data;
+	private int id;
 }
